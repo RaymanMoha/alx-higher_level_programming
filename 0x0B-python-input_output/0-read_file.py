@@ -8,5 +8,6 @@ def read_file(filename=""):
 
 with open(filename, "r", encoding="UTF-8") as i:
 
-for line in i
-print( line " ", end=" ")
+for line in i:
+
+print( line, end=" ")
