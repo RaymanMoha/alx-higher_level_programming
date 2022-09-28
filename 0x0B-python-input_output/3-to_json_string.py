@@ -3,7 +3,8 @@
 """
 import json
 def to_json_string(my_obj):
-   """Args:
+	"""function that turns object into json string
+	Args:
           my_obj: object
     Raises:
            Exception: when the string can't be decoded"""
